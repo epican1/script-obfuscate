@@ -29,7 +29,8 @@ userids = {
 [9461047309] = true,
 [2674323300] = true,
 [2216455511] = true,
-[3509207211] = true
+[3509207211] = true,
+[1847615917] = true --bay
 }
 return userids
 
